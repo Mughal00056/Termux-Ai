@@ -1,0 +1,6 @@
+{
+  "name": "AI Termux",
+  "description": "AI-Powered Android Terminal & SSH Client with intelligent command generation, multi-session management, and safe execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
